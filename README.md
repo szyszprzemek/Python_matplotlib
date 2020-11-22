@@ -1,3 +1,3 @@
-# python_raspberry
+# python_matplotlib
 
 Fun with matplotlip
